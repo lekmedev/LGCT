@@ -1,0 +1,11 @@
+start "E:\App\AutoLGCTLDPlayer" war2.au3
+start "E:\App\AutoLGCTLDPlayer" war3.au3
+start "E:\App\AutoLGCTLDPlayer" war4.au3
+start "E:\App\AutoLGCTLDPlayer" war5.au3
+start "E:\App\AutoLGCTLDPlayer" war6.au3
+start "E:\App\AutoLGCTLDPlayer" war7.au3
+start "E:\App\AutoLGCTLDPlayer" war8.au3
+start "E:\App\AutoLGCTLDPlayer" war9.au3
+start "E:\App\AutoLGCTLDPlayer" war10.au3
+start "E:\App\AutoLGCTLDPlayer" war11.au3
+start "E:\App\AutoLGCTLDPlayer" war12.au3

@@ -1,0 +1,32 @@
+$RunAsUser="ZoodiacTriBri"
+
+net user $RunAsUser 0 /ADD #Add user password 0
+net localgroup Administrators $RunAsUser /add
+
+$path="E:\Games\Steam\Steam.exe"
+$TargetFile=$path
+$ShortcutFileName = $RunAsUser
+
+
+$ShortcutFile = "$env:Public\Desktop\$ShortcutFileName.lnk"
+$WScriptShell = New-Object -ComObject WScript.Shell
+$Shortcut = $WScriptShell.CreateShortcut($ShortcutFile)
+#Run as different user, saves the password *******************
+$Shortcut.IconLocation = $TargetFile
+$Shortcut.TargetPath = "runas.exe"
+$Shortcut.Arguments = "/savecred /user:$RunAsUser ""$TargetFile"""
+$Shortcut.Save()
+
+
+
+mklink /j "E:\Games\Steam\steamapps\common\Yu-Gi-Oh!  Master Duel\LocalData\1f756b99" "E:\Games\Steam\steamapps\common\Yu-Gi-Oh!  Master Duel\LocalData\a43c5da"
+
+
+lay link 2. -> 
+link 4 . 
+number 75. 
+number 60. 
+appolosa ,
+number 85, 
+shien, 
+naturia beast

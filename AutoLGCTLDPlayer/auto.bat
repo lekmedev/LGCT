@@ -1,0 +1,1 @@
+start C:\Users\Admin\Desktop\autoo\AutoLGCTLDPlayer\Runat0h.au3
