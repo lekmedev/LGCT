@@ -51,8 +51,6 @@ khiet_tu t
 trienchieu90 t
 hantin90 t
 nhacphi90 t !!!
-SV475 ================ ha Nhi
-Pytran 11761 CheckMail_9t
 SV468 ================
 hacan5 rfv CheckMail_9t
 hacan6 rfv CheckMail_9t
@@ -67,6 +65,7 @@ tatcho 223344 CheckMail_9t
 SV476 ====
 dungquyen12 11761 CheckMail_9t
 dungquyen13 11761 CheckMail_9t
+trumcolime4 11761
 dungngoc1 11761
 dungngoc2 11761
 dungngoc3 11761
@@ -79,12 +78,6 @@ chichlaghien 11761 CheckMail_9t
 bee2205 11761 CheckMail_9t
 superbee000 11761 CheckMail_9t
 0703151393 11761 CheckMail_9t
-bang0121 11761 CheckMail_9t
-tanmeo1 11761 CheckMail_9t
-trumcolime1 11761 CheckMail_9t
-trumcolime2 11761 CheckMail_9t
-trumcolime4 11761 CheckMail_9t
-trumcolime5 11761 CheckMail_9t
 duythai14 11761 CheckMail_9t
 duythai17 11761 CheckMail_9t
 duythai18 11761 CheckMail_9t

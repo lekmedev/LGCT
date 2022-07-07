@@ -37,7 +37,7 @@ Next
 Sleep(10000)
 While 1
 	Switch @HOUR
-		Case 0 To 5
+		Case 0 To 7
 			For $i = 1 To 11
 				ShellExecute(@ScriptDir & "/AutoLDPlayer" & $i + 1 & ".au3")
 				Sleep(6000)
@@ -54,7 +54,7 @@ While 1
 				ShellExecute(@ScriptDir & "/war13.au3")
 			EndIf
 			ExitLoop
-		Case 8 To 9
+		Case 14
 			For $i = 1 To 11
 ;~ 				ShellExecute("C:\Users\Admin\Desktop\autoo\AutoLGCTLDPlayer - Net\Net" & $i + 1 & ".au3")
 				ShellExecute(@ScriptDir & "/VanTieuAutoLDPlayer" & $i + 1 & ".au3")

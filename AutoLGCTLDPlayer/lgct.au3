@@ -71,6 +71,7 @@ Func IsEven($i)
 	Return ($i / 2) = Round($i / 2)
 EndFunc   ;==>IsEven
 
+
 Func _VanTieu($infoAcc)
 	AdlibRegister("_ClearApp", 40000)
 	Sleep(1000)
@@ -1069,7 +1070,7 @@ Func AutoMain1()
 			$samePWD = $infoAcc[2] ; Check Same Password
 
 ;~ 			CaptADB($infoAcc) ;chup hinh
-			If _ReadIni(@ScriptDir & "\Data\Account\file.ini", "General", "code", "") <> "" Then
+			If _ReadIni(@ScriptDir & "\Data\Account\file.ini", "General", "code", "") <> "" And @WDAY == 1 Then
 ;~				if _curSV() = "SV284" or Third($infoAcc, "MoBoss")  Or _curSV() = "SV287" Or _curSV() = "SV279" Or _curSV() = "SV278" Or _curSV() = "SV358" Or _curSV() = "SV356"  Or _curSV() = "SV355"  Then
 				AdlibRegister("_ClearApp", 10000)
 				DoiCode()
