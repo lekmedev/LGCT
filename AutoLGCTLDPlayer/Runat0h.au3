@@ -25,7 +25,7 @@ Until @error
 
 For $i = 1 To 11
 	If StringInStr($sStdOut, "127.0.0.1:55" & 55 + $i * 2 & "	device") = 0 Then
-		MsgBox(0, "", $i, 3)
+;~ 		MsgBox(0, "", $i, 3)qq
 		Run(@ComSpec & ' /c dnconsole.exe quit --index ' & $i & "", @SystemDir, @SW_HIDE)
 		Sleep(3500)
 		Run(@ComSpec & ' /c "E:\Games\LDPlayer\dnplayer.exe" index=' & $i & "", @SystemDir, @SW_HIDE)

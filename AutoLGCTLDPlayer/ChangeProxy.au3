@@ -30,11 +30,12 @@ Func changeProxy()
 
 
 		FileWrite(@ScriptDir & "\run.ppx", $ppx)
-;~ 		MsgBox(0, $ip, $ppx)
-;~ 		FileRead(@ScriptDir & "\run.ppx")
+;~ 		MsgBox(0,"",1)
 		FileMove(@ScriptDir & "\run.ppx", @AppDataDir & "\Proxifier\Profiles\run.ppx", 1)
 		Run(@ComSpec & ' /c "C:\Program Files (x86)\Proxifier\Proxifier.exe" C:\Users\Admin\AppData\Roaming\Proxifier\Profiles\Default1.ppx silent-load', "", @SW_HIDE)
 		Sleep(500)
+
+;~ 		MsgBox(0, $ip, $ppx)
 		Run(@ComSpec & ' /c "C:\Program Files (x86)\Proxifier\Proxifier.exe" C:\Users\Admin\AppData\Roaming\Proxifier\Profiles\run.ppx silent-load', "", @SW_HIDE)
 
 	Else
