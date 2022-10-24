@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="EFUN_GAME_DYNAMIC_VERSION_CONTENT">{&quot;efunVersionCode&quot;:&quot;1&quot;,&quot;qxdlswitch&quot;:&quot;off&quot;,&quot;dataEncrypt&quot;:&quot;n&quot;,&quot;sign&quot;:&quot;35344270986A44D39B15794242066151&quot;,&quot;isSupportSerial&quot;:&quot;n&quot;}</string>
+    <boolean name="dataEncrypt" value="false" />
+    <string name="ADS_EFUN_RESPONE_CODE">1000</string>
+    <string name="EFUN_GOOGLE_ADVERTISING_ID">5948314b-f6ce-4328-aee9-9858c2f9688a</string>
+    <string name="EFUN_LOGIN_SERVER_RETURN_DATA"></string>
+    <string name="EFUN_LOGIN_USER_ID"></string>
+    <string name="EFUN_LOGIN_SIGN"></string>
+    <string name="ADS_ONLYONCE_KEY">ADS_ONLYONCE_CODE</string>
+    <string name="EFUN_LOGIN_TIMESTAMP"></string>
+</map>
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="EFUN_GAME_DYNAMIC_VERSION_CONTENT">{&quot;efunVersionCode&quot;:&quot;1&quot;,&quot;qxdlswitch&quot;:&quot;off&quot;,&quot;dataEncrypt&quot;:&quot;n&quot;,&quot;sign&quot;:&quot;35344270986A44D39B15794242066151&quot;,&quot;isSupportSerial&quot;:&quot;n&quot;}</string>
+    <boolean name="dataEncrypt" value="false" />
+    <string name="ADS_EFUN_RESPONE_CODE">1000</string>
+    <string name="EFUN_GOOGLE_ADVERTISING_ID">902c1b8d-936c-46b1-a7f5-4915187316d8</string>
+    <string name="EFUN_LOGIN_SERVER_RETURN_DATA"></string>
+    <string name="EFUN_LOGIN_USER_ID"></string>
+    <string name="EFUN_LOGIN_SIGN"></string>
+    <string name="ADS_ONLYONCE_KEY">ADS_ONLYONCE_CODE</string>
+    <string name="EFUN_LOGIN_TIMESTAMP"></string>
+</map>

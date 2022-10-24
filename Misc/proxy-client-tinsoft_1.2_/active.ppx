@@ -31,7 +31,7 @@
     </Rule>
     <Rule enabled="true">
       <Name>mysetting</Name>
-      <Applications>LdBoxHeadless.exe;noxvmhandle.exe;</Applications>
+      <Applications>noxvmhandle.exe;LdBoxHeadless.exe;firefox.exe;</Applications>
       <Action type="Proxy">100</Action>
     </Rule>
     <Rule enabled="true">

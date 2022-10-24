@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="dataEncrypt" value="false" />
+    <string name="LOGIN_TYPE_KEY">efun</string>
+    <string name="LOGIN_REPONSE_KEY">{&quot;efunResult&quot;:&quot;efun_success&quot;,&quot;code&quot;:&quot;1000&quot;,&quot;message&quot;:&quot;Đăng nhập thành công&quot;,&quot;sign&quot;:&quot;488BD66F27B48EBB143596F2CE3C0F5A&quot;,&quot;timestamp&quot;:&quot;1666601937964&quot;,&quot;userid&quot;:43292736,&quot;event&quot;:&quot;login&quot;}</string>
+    <string name="ADS_EFUN_RESPONE_CODE">1000</string>
+    <string name="EFUN_GOOGLE_ADVERTISING_ID">7de3eff6-022e-480b-833e-de8bddf3da0b</string>
+    <string name="EFUN_LOGIN_SERVER_RETURN_DATA">{&quot;efunResult&quot;:&quot;efun_success&quot;,&quot;code&quot;:&quot;1000&quot;,&quot;message&quot;:&quot;Đăng nhập thành công&quot;,&quot;sign&quot;:&quot;488BD66F27B48EBB143596F2CE3C0F5A&quot;,&quot;timestamp&quot;:&quot;1666601937964&quot;,&quot;userid&quot;:43292736,&quot;event&quot;:&quot;login&quot;}</string>
+    <string name="efun_login_info">43292736_488BD66F27B48EBB143596F2CE3C0F5A_1666601937964</string>
+    <string name="EFUN_LOGIN_SIGN">488BD66F27B48EBB143596F2CE3C0F5A</string>
+    <string name="EFUN_GAME_DYNAMIC_VERSION_CONTENT">{&quot;efunVersionCode&quot;:&quot;1&quot;,&quot;qxdlswitch&quot;:&quot;off&quot;,&quot;dataEncrypt&quot;:&quot;n&quot;,&quot;sign&quot;:&quot;35344270986A44D39B15794242066151&quot;,&quot;isSupportSerial&quot;:&quot;n&quot;}</string>
+    <int name="already_loginout" value="1" />
+    <string name="EFUN_LOGIN_USER_ID">43292736</string>
+    <string name="LOGIN_USERNAME">vQJVndvJ0AS4QgCYoytoeA==
+$|$$***efun</string>
+    <string name="ADS_ONLYONCE_KEY">ADS_ONLYONCE_CODE</string>
+    <string name="LOGIN_PASSWORD">GZiyRqNY4p0=
+$|$$***efun</string>
+    <string name="EFUN_LOGIN_TIMESTAMP">1666601937964</string>
+</map>

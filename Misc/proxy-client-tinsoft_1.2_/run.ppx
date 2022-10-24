@@ -17,8 +17,8 @@
   </Options>
   <ProxyList>
     <Proxy id="100" type="HTTPS">
-      <Address>117.7.106.70</Address>
-      <Port>33663</Port>
+      <Address>116.101.29.189</Address>
+      <Port>40575</Port>
       <Options>48</Options>
     </Proxy>
   </ProxyList>
@@ -31,7 +31,7 @@
     </Rule>
     <Rule enabled="true">
       <Name>mysetting</Name>
-      <Applications>LdBoxHeadless.exe;noxvmhandle.exe;</Applications>
+      <Applications>noxvmhandle.exe;LdBoxHeadless.exe;firefox.exe;</Applications>
       <Action type="Proxy">100</Action>
     </Rule>
     <Rule enabled="true">

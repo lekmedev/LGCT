@@ -15,8 +15,3 @@ kunbe0 179 cthu_9t_Prison
 leha10 179 cthu_9t_Prison
 hado005 179 9t
 hado006 179 9t
-SV279 ======================================================
-nguyenvannhat 1002 qgia
-mkim1691 1002 qgia
-sangthuy12 1002 qgia
-trjeugamo 1001 qgia

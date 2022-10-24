@@ -28,7 +28,6 @@ Func changeProxy()
 ;~ 		$ppx = StringRegExpReplace($ppx, "(<Address>)(.*)(<\/Address>[\s\S]*<Port>)(\d*)(<\/Port>)", '${1}' & $ip & '${3}' & $Port & '${5}')
 		$ppx = StringRegExpReplace($ppx, '([\s\S]*<ConnectionLoopDetection enabled=")(\w+)([\s\S]*)(<Address>)(.*)(<\/Address>[\s\S]*<Port>)(\d*)(<\/Port>)', '${1}' & 'false' & '${3}' & '${4}' & $ip & '${6}'& $Port & '${8}')
 
-
 		FileWrite(@ScriptDir & "\run.ppx", $ppx)
 ;~ 		MsgBox(0,"",1)
 		FileMove(@ScriptDir & "\run.ppx", @AppDataDir & "\Proxifier\Profiles\run.ppx", 1)

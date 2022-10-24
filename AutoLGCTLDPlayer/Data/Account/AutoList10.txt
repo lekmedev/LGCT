@@ -1,90 +1,56 @@
-SV149 ============== Thanh Quat
-hh1905 s
-ngoanninh1 s
-hieu133 s
-emiu0 s
-blackadam s
-namkhiulsa s
-longnhatphong s
-huyetrong9688 s
-quynhchi201 84
-giapthaptam1 84
-giapthaptam2 84
-giapthaptam3 84
-giapthaptam4 84
-giapthaptam5 84
-giapthaptam6 84
-giapthaptam7 84
-giapthaptam8 84
-giapthaptam9 84
-giapthaptam10 84
-giapthaptam11 84
-giapthaptam12 84
-giapthaptam13 84
-giapthaptam14 84
-Bachleodoi 84
-Bachleothang 84
-Bachleotuong 84
-Bachleocot 84
-Bachleocay 84
-Bachleoday 84
-Bachleoban 84
-Datangchuc 84
-Datangtien 84
-Datangluc 84
-Quynhchi2011 84
-quynhchi2014 84
-quynhchi20 84
-quynhchi22 84
-quynhchi23 84
-quynhchi24 84
-quynhchi25 84
-quynhchi20133 84
-quynhchi20134 84
-Quynhchi201345 84
-thanh_quat84 84
-nachu207 84
-yeuvinang 84
-thienvu0203 84
-Quangtrung1708 84
-- -0973566249 84
-xiaoling0 ss
-xiaoling1 ss
-xiaoling2 ss
-xiaoling3 ss
-xiaoling5 ss
-xiaoling6 ss
-xiaoling7 ss
-xiaoling8 ss
-xiaoling9 ss 
-SV148 =
-hoanggiang99 s
-Nhocran111 s
-duongnt94 s !!!!!!
-SV114 ============= 
-Ngaolabot ng OtherKNB_Gin
-S269anhyeuem ng OtherKNB_Gin
-01699729230 ng OtherKNB_Gin
-Khoatuanson ng OtherKNB_Gin
-Khoatuanson1 ng OtherKNB_Gin
-Khoatuanson2 ng OtherKNB_Gin
-Khoatuanson3 ng OtherKNB_Gin
-Khoatuanson4 ng OtherKNB_Gin
-Khoatuanson5 ng OtherKNB_Gin
-Khoatuanson6 ng OtherKNB_Gin
-Khoatuanson7 ng OtherKNB_Gin
-Kingofchich ng OtherKNB_Gin
-Kingofchich1 ng OtherKNB_Gin
-Kingofchich2 ng OtherKNB_Gin
-Kingofchich3 ng OtherKNB_Gin
-Kingofchich4 ng OtherKNB_Gin
-Kingofchich5 ng OtherKNB_Gin
-Kingofchich6 ng OtherKNB_Gin
-Kingofchich7 ng OtherKNB_Gin
-Kingofchich8 ng OtherKNB_Gin
-Kingofchich9 ng OtherKNB_Gin
-Kingofchich10 ng OtherKNB_Gin
-Kingofchich11 ng OtherKNB_Gin ENd Gin !!!
+SV132 ==
+Kimbang20 132 9t_qgia
+Kimbang11 6210119 9t_qgia
+Kimbang12 6210119 9t_qgia
+Vulk15 6210119 9t_qgia
+Vulk16 6210119 9t_qgia
+Vulk17 6210119 9t_qgia
+Vulk18 6210119 9t_qgia
+Vulk19 6210119 9t_qgia
+Tudmdn 6210119 9t_qgia
+Tudmdn1 6210119 9t_qgia
+Tudmdn2 6210119 9t_qgia
+Tudmdn3 6210119 9t_qgia
+Tudmdn4 6210119 9t_qgia
+Tudmdn5 6210119 9t_qgia
+Tudmdn6 6210119 9t_qgia
+Tudmdn7 6210119 9t_qgia
+Tudmdn8 6210119 9t_qgia
+Tudmdn9 6210119 9t_qgia
+Kimbang21 132 9t_qgia
+Stonig 132 9t_qgia
+Longdbcc 132 9t_qgia
+Longdbcc1 132 9t_qgia
+Longdbcc2 132 9t_qgia
+Longdbcc3 132 9t_qgia
+Longdbcc4 132 9t_qgia
+Longdbcc5 132 9t_qgia
+Monghoatrang 132 9t_qgia
+Quylauxanh 132 9t_qgia
+Vudoi5 132 9t_qgia
+Thuongphan603 132 9t_qgia
+Bophucvidai 132 9t_qgia
+Vietkhanh98 132 9t_qgia
+Vntd1269 132 9t_qgia
+Mongtien 132 9t_qgia
+Pllinhl 132 9t_qgia
+Pllinhlc 132 9t_qgia
+Thanh270792 132 9t_qgia
+Vuongvanlong 132 9t_qgia
+01652307986 132 9t_qgia
+01696565579 132 9t_qgia
+01264715512 132 9t_qgia
+Thaomai2018 132 9t_qgia
+Nguylongdang 132 9t_qgia
+Tophunghoangphuc 132 9t_qgia
+Songlongdung 132 9t_qgia
+SV134 ==============
+Chii222222i 442 !!!
+SV133 =
+Ngonvuhuy 132 9t_qgia
+conquerors420 132 9t_qgia
+Tieuconuong_123 6210119 9t_qgia 9t_qgia
+Binhnhi_3918 6210119 9t_qgia 9t_qgia !!!!!!
 SV456 =========
 Keikan01 bktt OtherKNB_Ver458459
 Keikan02 bktt OtherKNB_Ver458459
@@ -108,6 +74,7 @@ Keikan019 bktt OtherKNB_Ver458459
 Keikan020 bktt  OtherKNB_Ver458459
 Vtnvtn4 251984 OtherKNB_Ver458459
 01258201250 251984 OtherKNB_Ver458459_9t_qgia_Prison
+Phonhpham1988 yeuttn OtherKNB_Ver458459_9t_qgia_Prison
 SV457 =========
 Vtnvtn4 251984 OtherKNB_Ver458459_qgia_Prison_9t
 Phonhpham1988 yeuttn OtherKNB_Ver458459
@@ -139,6 +106,8 @@ calongtong09 251984 OtherKNB_Ver458459_cthu_Prison_9t
 calongtong10 251984 OtherKNB_Ver458459_qgia_Prison_9t 
 nguyenphamphuonganh 251984 OtherKNB_Ver458459_9t
 SV459 ==================================
+baokesk1 031188 OtherKNB_Ver458459_qgia_Prison_9t
+Trangnguyen456 linh OtherKNB_Ver458459_qgia_Prison_9t
 Namnhatdepzai 251984 OtherKNB_Ver458459_qgia_Prison_9t
 Thanhmeo75 0989212390
 Thinh086 0989212390
@@ -294,34 +263,5 @@ Haphan178 0989212390 OtherKNB_Ver458459
 Thinh084 251984 OtherKNB_Ver458459 
 Thanhtana 123567 OtherKNB_Ver458459 
 Doncoi77 123456788 OtherKNB_Ver458459 !!!!!!!!!!!!!!!
-SV295 =============
-Huuthangno0 295 qgia
-Huuthangno1 295 qgia
-Huuthangno2 295 cthu_Prison
-Huuthangno3 295 cthu_Prison
-Huuthangno4 295 cthu_Prison
-Huuthangno5 295 cthu_Prison
-Huuthangno6 295 cthu_Prison
-Huuthangno7 295 cthu_Prison
-Huuthangno8 295 cthu_Prison
-Huuthangno9 295 cthu_Prison
-Huuthangno10 295 Prison
-Namlun0 295 qgia
-Namlun10 295 qgia
-Namlun11 295 qgia
-Namlun12 295 qgia
-Khinhat 295 qgia
-quenmotnguoinoinao 295 qgia
-Hiephen 295 qgia
-Tieulogach01 000 qgia
-Tieulogach02 000 qgia
-Tieulogach03 000 qgia
-Tieulogach04 000 qgia
-Tieulogach05 000 qgia
-Tieulogach06 000 qgia
-Tieulogach07 000 qgia
-Tieulogach08 000 qgia
-Tieulogach09 000 qgia
-Tieulogach10 000 qgia !!!!!!
 SV284 ====
 0933844440 1001 qgia !!!
